@@ -1,0 +1,1501 @@
+[
+  {
+    "dex": 1,
+    "name": "Bulbasaur",
+    "gen": 1,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "family_id": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 2,
+    "name": "Ivysaur",
+    "gen": 1,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "family_id": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 3,
+    "name": "Venusaur",
+    "gen": 1,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "family_id": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 4,
+    "name": "Charmander",
+    "gen": 1,
+    "types": [
+      "Fire"
+    ],
+    "family_id": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 5,
+    "name": "Charmeleon",
+    "gen": 1,
+    "types": [
+      "Fire"
+    ],
+    "family_id": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 6,
+    "name": "Charizard",
+    "gen": 1,
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "family_id": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 7,
+    "name": "Squirtle",
+    "gen": 1,
+    "types": [
+      "Water"
+    ],
+    "family_id": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 8,
+    "name": "Wartortle",
+    "gen": 1,
+    "types": [
+      "Water"
+    ],
+    "family_id": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 9,
+    "name": "Blastoise",
+    "gen": 1,
+    "types": [
+      "Water"
+    ],
+    "family_id": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 25,
+    "name": "Pikachu",
+    "gen": 1,
+    "types": [
+      "Electric"
+    ],
+    "family_id": 25,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 26,
+    "name": "Raichu",
+    "gen": 1,
+    "types": [
+      "Electric"
+    ],
+    "family_id": 25,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 37,
+    "name": "Vulpix",
+    "gen": 1,
+    "types": [
+      "Fire"
+    ],
+    "family_id": 37,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 38,
+    "name": "Ninetales",
+    "gen": 1,
+    "types": [
+      "Fire"
+    ],
+    "family_id": 37,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 52,
+    "name": "Meowth",
+    "gen": 1,
+    "types": [
+      "Normal"
+    ],
+    "family_id": 52,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 58,
+    "name": "Growlithe",
+    "gen": 1,
+    "types": [
+      "Fire"
+    ],
+    "family_id": 58,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 59,
+    "name": "Arcanine",
+    "gen": 1,
+    "types": [
+      "Fire"
+    ],
+    "family_id": 58,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 63,
+    "name": "Abra",
+    "gen": 1,
+    "types": [
+      "Psychic"
+    ],
+    "family_id": 63,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 64,
+    "name": "Kadabra",
+    "gen": 1,
+    "types": [
+      "Psychic"
+    ],
+    "family_id": 63,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 65,
+    "name": "Alakazam",
+    "gen": 1,
+    "types": [
+      "Psychic"
+    ],
+    "family_id": 63,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 66,
+    "name": "Machop",
+    "gen": 1,
+    "types": [
+      "Fighting"
+    ],
+    "family_id": 66,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 67,
+    "name": "Machoke",
+    "gen": 1,
+    "types": [
+      "Fighting"
+    ],
+    "family_id": 66,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 68,
+    "name": "Machamp",
+    "gen": 1,
+    "types": [
+      "Fighting"
+    ],
+    "family_id": 66,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 74,
+    "name": "Geodude",
+    "gen": 1,
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "family_id": 74,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 77,
+    "name": "Ponyta",
+    "gen": 1,
+    "types": [
+      "Fire"
+    ],
+    "family_id": 77,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 78,
+    "name": "Rapidash",
+    "gen": 1,
+    "types": [
+      "Fire"
+    ],
+    "family_id": 77,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 79,
+    "name": "Slowpoke",
+    "gen": 1,
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "family_id": 79,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 80,
+    "name": "Slowbro",
+    "gen": 1,
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "family_id": 79,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 88,
+    "name": "Grimer",
+    "gen": 1,
+    "types": [
+      "Poison"
+    ],
+    "family_id": 88,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 92,
+    "name": "Gastly",
+    "gen": 1,
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "family_id": 92,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 93,
+    "name": "Haunter",
+    "gen": 1,
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "family_id": 92,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 94,
+    "name": "Gengar",
+    "gen": 1,
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "family_id": 92,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 103,
+    "name": "Exeggutor",
+    "gen": 1,
+    "types": [
+      "Grass",
+      "Psychic"
+    ],
+    "family_id": 102,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 105,
+    "name": "Marowak",
+    "gen": 1,
+    "types": [
+      "Ground"
+    ],
+    "family_id": 104,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 115,
+    "name": "Kangaskhan",
+    "gen": 1,
+    "types": [
+      "Normal"
+    ],
+    "family_id": 115,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 122,
+    "name": "Mr. Mime",
+    "gen": 1,
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "family_id": 122,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 128,
+    "name": "Tauros",
+    "gen": 1,
+    "types": [
+      "Normal"
+    ],
+    "family_id": 128,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 129,
+    "name": "Magikarp",
+    "gen": 1,
+    "types": [
+      "Water"
+    ],
+    "family_id": 129,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 130,
+    "name": "Gyarados",
+    "gen": 1,
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "family_id": 129,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 131,
+    "name": "Lapras",
+    "gen": 1,
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "family_id": 131,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 132,
+    "name": "Ditto",
+    "gen": 1,
+    "types": [
+      "Normal"
+    ],
+    "family_id": 132,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 133,
+    "name": "Eevee",
+    "gen": 1,
+    "types": [
+      "Normal"
+    ],
+    "family_id": 133,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 134,
+    "name": "Vaporeon",
+    "gen": 1,
+    "types": [
+      "Water"
+    ],
+    "family_id": 133,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 135,
+    "name": "Jolteon",
+    "gen": 1,
+    "types": [
+      "Electric"
+    ],
+    "family_id": 133,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 136,
+    "name": "Flareon",
+    "gen": 1,
+    "types": [
+      "Fire"
+    ],
+    "family_id": 133,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 142,
+    "name": "Aerodactyl",
+    "gen": 1,
+    "types": [
+      "Rock",
+      "Flying"
+    ],
+    "family_id": 142,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 143,
+    "name": "Snorlax",
+    "gen": 1,
+    "types": [
+      "Normal"
+    ],
+    "family_id": 143,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 144,
+    "name": "Articuno",
+    "gen": 1,
+    "types": [
+      "Ice",
+      "Flying"
+    ],
+    "family_id": 144,
+    "is_legendary": true,
+    "is_mythical": false,
+    "base_rarity": 75
+  },
+  {
+    "dex": 145,
+    "name": "Zapdos",
+    "gen": 1,
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "family_id": 145,
+    "is_legendary": true,
+    "is_mythical": false,
+    "base_rarity": 75
+  },
+  {
+    "dex": 146,
+    "name": "Moltres",
+    "gen": 1,
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "family_id": 146,
+    "is_legendary": true,
+    "is_mythical": false,
+    "base_rarity": 75
+  },
+  {
+    "dex": 147,
+    "name": "Dratini",
+    "gen": 1,
+    "types": [
+      "Dragon"
+    ],
+    "family_id": 147,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 148,
+    "name": "Dragonair",
+    "gen": 1,
+    "types": [
+      "Dragon"
+    ],
+    "family_id": 147,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 149,
+    "name": "Dragonite",
+    "gen": 1,
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "family_id": 147,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 150,
+    "name": "Mewtwo",
+    "gen": 1,
+    "types": [
+      "Psychic"
+    ],
+    "family_id": 150,
+    "is_legendary": true,
+    "is_mythical": false,
+    "base_rarity": 75
+  },
+  {
+    "dex": 151,
+    "name": "Mew",
+    "gen": 1,
+    "types": [
+      "Psychic"
+    ],
+    "family_id": 151,
+    "is_legendary": false,
+    "is_mythical": true,
+    "base_rarity": 85
+  },
+  {
+    "dex": 172,
+    "name": "Pichu",
+    "gen": 2,
+    "types": [
+      "Electric"
+    ],
+    "family_id": 25,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 175,
+    "name": "Togepi",
+    "gen": 2,
+    "types": [
+      "Fairy"
+    ],
+    "family_id": 175,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 196,
+    "name": "Espeon",
+    "gen": 2,
+    "types": [
+      "Psychic"
+    ],
+    "family_id": 133,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 197,
+    "name": "Umbreon",
+    "gen": 2,
+    "types": [
+      "Dark"
+    ],
+    "family_id": 133,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 212,
+    "name": "Scizor",
+    "gen": 2,
+    "types": [
+      "Bug",
+      "Steel"
+    ],
+    "family_id": 123,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 214,
+    "name": "Heracross",
+    "gen": 2,
+    "types": [
+      "Bug",
+      "Fighting"
+    ],
+    "family_id": 214,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 243,
+    "name": "Raikou",
+    "gen": 2,
+    "types": [
+      "Electric"
+    ],
+    "family_id": 243,
+    "is_legendary": true,
+    "is_mythical": false,
+    "base_rarity": 75
+  },
+  {
+    "dex": 244,
+    "name": "Entei",
+    "gen": 2,
+    "types": [
+      "Fire"
+    ],
+    "family_id": 244,
+    "is_legendary": true,
+    "is_mythical": false,
+    "base_rarity": 75
+  },
+  {
+    "dex": 245,
+    "name": "Suicune",
+    "gen": 2,
+    "types": [
+      "Water"
+    ],
+    "family_id": 245,
+    "is_legendary": true,
+    "is_mythical": false,
+    "base_rarity": 75
+  },
+  {
+    "dex": 246,
+    "name": "Larvitar",
+    "gen": 2,
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "family_id": 246,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 247,
+    "name": "Pupitar",
+    "gen": 2,
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "family_id": 246,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 248,
+    "name": "Tyranitar",
+    "gen": 2,
+    "types": [
+      "Rock",
+      "Dark"
+    ],
+    "family_id": 246,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 249,
+    "name": "Lugia",
+    "gen": 2,
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
+    "family_id": 249,
+    "is_legendary": true,
+    "is_mythical": false,
+    "base_rarity": 75
+  },
+  {
+    "dex": 250,
+    "name": "Ho-Oh",
+    "gen": 2,
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "family_id": 250,
+    "is_legendary": true,
+    "is_mythical": false,
+    "base_rarity": 75
+  },
+  {
+    "dex": 251,
+    "name": "Celebi",
+    "gen": 2,
+    "types": [
+      "Psychic",
+      "Grass"
+    ],
+    "family_id": 251,
+    "is_legendary": false,
+    "is_mythical": true,
+    "base_rarity": 85
+  },
+  {
+    "dex": 252,
+    "name": "Treecko",
+    "gen": 3,
+    "types": [
+      "Grass"
+    ],
+    "family_id": 252,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 254,
+    "name": "Sceptile",
+    "gen": 3,
+    "types": [
+      "Grass"
+    ],
+    "family_id": 252,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 255,
+    "name": "Torchic",
+    "gen": 3,
+    "types": [
+      "Fire"
+    ],
+    "family_id": 255,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 257,
+    "name": "Blaziken",
+    "gen": 3,
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "family_id": 255,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 258,
+    "name": "Mudkip",
+    "gen": 3,
+    "types": [
+      "Water"
+    ],
+    "family_id": 258,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 260,
+    "name": "Swampert",
+    "gen": 3,
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "family_id": 258,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 280,
+    "name": "Ralts",
+    "gen": 3,
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "family_id": 280,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 282,
+    "name": "Gardevoir",
+    "gen": 3,
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "family_id": 280,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 302,
+    "name": "Sableye",
+    "gen": 3,
+    "types": [
+      "Dark",
+      "Ghost"
+    ],
+    "family_id": 302,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 371,
+    "name": "Bagon",
+    "gen": 3,
+    "types": [
+      "Dragon"
+    ],
+    "family_id": 371,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 373,
+    "name": "Salamence",
+    "gen": 3,
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "family_id": 371,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 374,
+    "name": "Beldum",
+    "gen": 3,
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "family_id": 374,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 376,
+    "name": "Metagross",
+    "gen": 3,
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "family_id": 374,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 380,
+    "name": "Latias",
+    "gen": 3,
+    "types": [
+      "Dragon",
+      "Psychic"
+    ],
+    "family_id": 380,
+    "is_legendary": true,
+    "is_mythical": false,
+    "base_rarity": 75
+  },
+  {
+    "dex": 381,
+    "name": "Latios",
+    "gen": 3,
+    "types": [
+      "Dragon",
+      "Psychic"
+    ],
+    "family_id": 381,
+    "is_legendary": true,
+    "is_mythical": false,
+    "base_rarity": 75
+  },
+  {
+    "dex": 382,
+    "name": "Kyogre",
+    "gen": 3,
+    "types": [
+      "Water"
+    ],
+    "family_id": 382,
+    "is_legendary": true,
+    "is_mythical": false,
+    "base_rarity": 75
+  },
+  {
+    "dex": 383,
+    "name": "Groudon",
+    "gen": 3,
+    "types": [
+      "Ground"
+    ],
+    "family_id": 383,
+    "is_legendary": true,
+    "is_mythical": false,
+    "base_rarity": 75
+  },
+  {
+    "dex": 384,
+    "name": "Rayquaza",
+    "gen": 3,
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "family_id": 384,
+    "is_legendary": true,
+    "is_mythical": false,
+    "base_rarity": 75
+  },
+  {
+    "dex": 385,
+    "name": "Jirachi",
+    "gen": 3,
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "family_id": 385,
+    "is_legendary": false,
+    "is_mythical": true,
+    "base_rarity": 85
+  },
+  {
+    "dex": 443,
+    "name": "Gible",
+    "gen": 4,
+    "types": [
+      "Dragon",
+      "Ground"
+    ],
+    "family_id": 443,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 444,
+    "name": "Gabite",
+    "gen": 4,
+    "types": [
+      "Dragon",
+      "Ground"
+    ],
+    "family_id": 443,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 445,
+    "name": "Garchomp",
+    "gen": 4,
+    "types": [
+      "Dragon",
+      "Ground"
+    ],
+    "family_id": 443,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 447,
+    "name": "Riolu",
+    "gen": 4,
+    "types": [
+      "Fighting"
+    ],
+    "family_id": 447,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 448,
+    "name": "Lucario",
+    "gen": 4,
+    "types": [
+      "Fighting",
+      "Steel"
+    ],
+    "family_id": 447,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 470,
+    "name": "Leafeon",
+    "gen": 4,
+    "types": [
+      "Grass"
+    ],
+    "family_id": 133,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 471,
+    "name": "Glaceon",
+    "gen": 4,
+    "types": [
+      "Ice"
+    ],
+    "family_id": 133,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 475,
+    "name": "Gallade",
+    "gen": 4,
+    "types": [
+      "Psychic",
+      "Fighting"
+    ],
+    "family_id": 280,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 483,
+    "name": "Dialga",
+    "gen": 4,
+    "types": [
+      "Steel",
+      "Dragon"
+    ],
+    "family_id": 483,
+    "is_legendary": true,
+    "is_mythical": false,
+    "base_rarity": 75
+  },
+  {
+    "dex": 484,
+    "name": "Palkia",
+    "gen": 4,
+    "types": [
+      "Water",
+      "Dragon"
+    ],
+    "family_id": 484,
+    "is_legendary": true,
+    "is_mythical": false,
+    "base_rarity": 75
+  },
+  {
+    "dex": 487,
+    "name": "Giratina",
+    "gen": 4,
+    "types": [
+      "Ghost",
+      "Dragon"
+    ],
+    "family_id": 487,
+    "is_legendary": true,
+    "is_mythical": false,
+    "base_rarity": 75
+  },
+  {
+    "dex": 488,
+    "name": "Cresselia",
+    "gen": 4,
+    "types": [
+      "Psychic"
+    ],
+    "family_id": 488,
+    "is_legendary": true,
+    "is_mythical": false,
+    "base_rarity": 75
+  },
+  {
+    "dex": 491,
+    "name": "Darkrai",
+    "gen": 4,
+    "types": [
+      "Dark"
+    ],
+    "family_id": 491,
+    "is_legendary": false,
+    "is_mythical": true,
+    "base_rarity": 85
+  },
+  {
+    "dex": 493,
+    "name": "Arceus",
+    "gen": 4,
+    "types": [
+      "Normal"
+    ],
+    "family_id": 493,
+    "is_legendary": false,
+    "is_mythical": true,
+    "base_rarity": 85
+  },
+  {
+    "dex": 610,
+    "name": "Axew",
+    "gen": 5,
+    "types": [
+      "Dragon"
+    ],
+    "family_id": 610,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 612,
+    "name": "Haxorus",
+    "gen": 5,
+    "types": [
+      "Dragon"
+    ],
+    "family_id": 610,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 633,
+    "name": "Deino",
+    "gen": 5,
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "family_id": 633,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 635,
+    "name": "Hydreigon",
+    "gen": 5,
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "family_id": 633,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 643,
+    "name": "Reshiram",
+    "gen": 5,
+    "types": [
+      "Dragon",
+      "Fire"
+    ],
+    "family_id": 643,
+    "is_legendary": true,
+    "is_mythical": false,
+    "base_rarity": 75
+  },
+  {
+    "dex": 644,
+    "name": "Zekrom",
+    "gen": 5,
+    "types": [
+      "Dragon",
+      "Electric"
+    ],
+    "family_id": 644,
+    "is_legendary": true,
+    "is_mythical": false,
+    "base_rarity": 75
+  },
+  {
+    "dex": 646,
+    "name": "Kyurem",
+    "gen": 5,
+    "types": [
+      "Dragon",
+      "Ice"
+    ],
+    "family_id": 646,
+    "is_legendary": true,
+    "is_mythical": false,
+    "base_rarity": 75
+  },
+  {
+    "dex": 658,
+    "name": "Greninja",
+    "gen": 6,
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "family_id": 656,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 700,
+    "name": "Sylveon",
+    "gen": 6,
+    "types": [
+      "Fairy"
+    ],
+    "family_id": 133,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 706,
+    "name": "Goodra",
+    "gen": 6,
+    "types": [
+      "Dragon"
+    ],
+    "family_id": 704,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 716,
+    "name": "Xerneas",
+    "gen": 6,
+    "types": [
+      "Fairy"
+    ],
+    "family_id": 716,
+    "is_legendary": true,
+    "is_mythical": false,
+    "base_rarity": 75
+  },
+  {
+    "dex": 717,
+    "name": "Yveltal",
+    "gen": 6,
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "family_id": 717,
+    "is_legendary": true,
+    "is_mythical": false,
+    "base_rarity": 75
+  },
+  {
+    "dex": 778,
+    "name": "Mimikyu",
+    "gen": 7,
+    "types": [
+      "Ghost",
+      "Fairy"
+    ],
+    "family_id": 778,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 785,
+    "name": "Tapu Koko",
+    "gen": 7,
+    "types": [
+      "Electric",
+      "Fairy"
+    ],
+    "family_id": 785,
+    "is_legendary": true,
+    "is_mythical": false,
+    "base_rarity": 75
+  },
+  {
+    "dex": 888,
+    "name": "Zacian",
+    "gen": 8,
+    "types": [
+      "Fairy",
+      "Steel"
+    ],
+    "family_id": 888,
+    "is_legendary": true,
+    "is_mythical": false,
+    "base_rarity": 75
+  },
+  {
+    "dex": 889,
+    "name": "Zamazenta",
+    "gen": 8,
+    "types": [
+      "Fighting",
+      "Steel"
+    ],
+    "family_id": 889,
+    "is_legendary": true,
+    "is_mythical": false,
+    "base_rarity": 75
+  },
+  {
+    "dex": 999,
+    "name": "Gimmighoul",
+    "gen": 9,
+    "types": [
+      "Ghost"
+    ],
+    "family_id": 999,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  },
+  {
+    "dex": 1000,
+    "name": "Gholdengo",
+    "gen": 9,
+    "types": [
+      "Steel",
+      "Ghost"
+    ],
+    "family_id": 999,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_rarity": 20
+  }
+]
